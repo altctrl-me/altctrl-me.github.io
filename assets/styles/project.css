@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;;
+    background: linear-gradient(45deg, lightsalmon, lightgreen);
+    text-align: center;
+    font-family: 'comic sans ms';
+    display: block
+    ;
+}
+h1{
+    text-shadow: 0 0 10px;
+    font-weight: bolder;
+}
+h2{
+    width: 60%;
+    margin:auto;
+    border-radius: 60% 60% 0 0;
+    background: linear-gradient(0deg,#B1F8F2,#FFFC99,#B1F8F2)
+
+    
+}
+table{
+    width: 100%;
+}
+img{
+    width: 300px;
+    height: 190px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    
+
+}
+img.main{
+    width: 400px;
+    height: 270px;
+    margin: auto;
+    display: block;
+}
+td{
+    text-align: center;
+}
